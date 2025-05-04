@@ -9,12 +9,12 @@ Project uses `mise` as build tool.
 To run example do:
 
 ``` shell
-mise run bulid
+mise run examples
 ```
 
 Or if you don have `mise` run `bash` script manually.
 
 ``` shell
-./.mise-tasks/build
+./.mise-tasks/examples.sh
 ```
 
